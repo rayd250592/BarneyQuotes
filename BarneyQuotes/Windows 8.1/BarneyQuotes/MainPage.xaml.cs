@@ -40,7 +40,8 @@ namespace BarneyQuotes
             string[] responses = { "Think of me like Yoda, but instead of being little and green I wear suits and I’m awesome. I’m your bro—I’m Broda!", 
                                      "It’s gonna be legend-… wait for it… and I hope you’re not lactose intolerant because the second half of that word is DAIRY!", 
                                      "Here’s the mini-cherry on top of the regular cherry on top of the sundae of awesomeness that is my life", 
-                                     "Suits are full of joy. They’re the sartorial equivalent of a baby’s smile", "Wait for it...", "Ted! Ted!", "Haveee you met Ted?"};
+                                     "Suits are full of joy. They’re the sartorial equivalent of a baby’s smile", "Wait for it...", "Ted! Ted!", "Haveee you met Ted?", "I'm awesome", 
+                                 "Suit up!", "Ted, take a note"};
 
 
             res.Text = responses[new Random().Next(0, responses.Length)];
