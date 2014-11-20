@@ -16,7 +16,7 @@
             </LinearGradientBrush>
         </Grid.Background>
         <Button Content="New Quote" HorizontalAlignment="Center" Margin="584,663,534,39" VerticalAlignment="Center" Height="66" Width="248" FontSize="36" Click="Button_Click"/>
-        <Ellipse Fill="#FFA2A2AA" HorizontalAlignment="Center" Height="455" Margin="156,156,71,157" Stroke="Black" VerticalAlignment="Center" Width="1139"/>
+        <Ellipse Fill="#FF8888FF" HorizontalAlignment="Center" Height="455" Margin="156,156,71,157" Stroke="Black" VerticalAlignment="Center" Width="1139"/>
         <TextBlock HorizontalAlignment="Center" Margin="448,57,440,653" TextWrapping="Wrap" Text="Barney Stinson Quotes" VerticalAlignment="Center" FontSize="48"/>
         <TextBlock x:Name="res" HorizontalAlignment="Center" Margin="317,245,297,277" TextWrapping="Wrap" VerticalAlignment="Center" FontSize="48" Height="246" Width="752"/>
 
